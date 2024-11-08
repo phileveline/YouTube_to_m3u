@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-東森新聞 | TAIWAN | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
+dongsenxinwen | TAIWAN | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/watch?v=V1p33hqPrUk
